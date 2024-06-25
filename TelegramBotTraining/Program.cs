@@ -7,6 +7,8 @@ using Telegram.Bot.Types.ReplyMarkups;
 using TelegramBotTraining;
 using File = System.IO.File;
 
+// Telegram Bot Avto Test 
+
 List<AvtoTestModel> model = new List<AvtoTestModel>();
 string pathFile = "uzlotin.json";
 
